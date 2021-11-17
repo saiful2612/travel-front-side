@@ -1,0 +1,79 @@
+[
+    {
+    "id":1,
+    "name":"Darjeling Tour Plan",
+    "image":"https://i.ibb.co/TKrZ7hX/babycare600x400.jpg",
+    "duration":"4 days & 5 nights tour",
+    "description":" Visit all the tourist sport with cheap rate and best facilities ",
+    "cost":2500,
+    "benifits":"We will give you 2 special dinner card with air tickets "
+    },
+    {
+    "id":2,
+    "name":"Kashmir and Manali Tour Plan",
+    "image":"/images/dentalcare600x400.jpg",
+    "description":"We serve all types of dental treatment and care. A group of expert and experienced dentist always serves the patients as their need",
+    "cost":1500,
+    "benifits":"We have provided any three types eye diagnosis at free cost in all our dental patient",
+    "doctor":8,
+    "cabin":1
+    },
+    {
+    "id":3,
+    "name":"Nepal Tour Plan",
+    "image":"/images/maternitycare600x400.jpg",
+    "description":"We are committed to any maternity service. A group of expert and experienced doctors always serves the patients as their need",
+    "cost":4000,
+    "benifits":"We have provided any five types diagnosis at free cost in all our new borning mom",
+    "doctor":15,
+    "cabin":10
+    },
+    {
+    "id":4,
+    "name":"Bhutan Tour Plan",
+    "image":"/images/ntcare600x400.jpg",
+    "description":"We have brought all types of ENT treatment is one place. A group of expert and experienced ENT doctors serves the patients as their need.",
+    "cost":1200,
+    "benifits":"We have provided any two types ENT diagnosis at free cost in all our ENT patient",
+    "doctor":7,
+    "cabin":2
+    },
+    {
+    "id":5,
+    "name":"Malaysia Tour Plan",
+    "image":"/images/orthopedicscare600x400.jpg",
+    "description":"We serve all types of ortopedics treatment. A group of expert and experienced othopedic doctors serves the patients as their need.",
+    "cost":2500,
+    "benifits":"We have provided any four types eye diagnosis at free cost in all our orthopedic patient","doctor":5,
+    "cabin":2
+    },
+    {
+    "id":6,
+    "name":"Maldives Tour Plan",
+    "image":"/images/heartcare600x400.png",
+    "description":"We are commited to serve any heart disease. A group of expert and experienced cardiologists always serves the heart patients as their need",
+    "cost":3000,
+    "benifits":"We have provided any four types heart diagnosis at free cost in all our heart patient",
+    "doctor":10,
+    "cabin":6
+    },
+    {
+    "id":7,
+    "name":"Bangkok Tour Plan",
+    "image":"/images/diabeticscare600x400.jpg",
+    "description":"We serve all types of diabetics treatment. A group of experienced diabetics specialist doctors serves the patients as their need.",
+    "cost":2000,
+    "benifits":"We have provided any four types diabetic diagnosis at free cost in all our diabetics patient","doctor":6,
+    "cabin":2
+    },
+    {
+    "id":8,
+    "name":"Bali Tour Plan",
+    "image":"/images/babycare600x400.jpg",
+    "description":"All types of newly born treatment is available here. A group of expert and experienced pediatrics serves the patients as their need",
+    "cost":3000,
+    "benifits":"We have provided any two types eye diagnosis at free cost in all our patient",
+    "doctor":10,
+    "cabin":5
+    }
+]

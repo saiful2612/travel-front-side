@@ -1,0 +1,24 @@
+.nav-element{
+    margin-left:auto;
+}
+
+.nav-body{
+    margin-top: 0;
+}
+
+.nav-element-body{
+    padding: 15px 0;
+}
+
+.nav-style{
+    background:#c3e7fd;
+}
+
+nav a{
+   font-weight:700;
+}
+
+.nav-btn{
+    color:blue;
+    background:	#abddfc;
+}

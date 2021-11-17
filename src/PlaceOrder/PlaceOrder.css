@@ -1,0 +1,28 @@
+.cardStyles{
+    width:75%;
+    box-shadow: 0 0 1px gray;
+    border-radius: 10px;
+    padding:30px;
+    background: #c3e7fd;
+}
+
+.cardBody{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    /* border:10px solid green; */
+    flex-direction:column;
+    min-height:100vh;
+}
+
+.offer-writting{
+    color: red;
+}
+
+.headline{
+    color: #800000;
+}
+
+.amount-style{
+    color:#3CB371;
+}
